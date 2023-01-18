@@ -1,0 +1,3 @@
+export const GEOAPIFY_KEY ="3b9b9ff12998423eb2b8854d3d1bd741";
+export const OPENWEATHER_KEY ="1e1292b54ef75d1d19a8e180b4747a9f";
+export const AIRTABLE_KEY ="patlRaLwam2ag91qv.patlRaLwam2ag91qv.edd4d8059c9fd60fc60dd76fb037703ec9886a36302bd9657f075af4458b8350";
